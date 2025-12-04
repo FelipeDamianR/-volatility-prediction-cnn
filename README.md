@@ -1,9 +1,6 @@
 # -volatility-prediction-cnn
 Proyecto de predicción binaria de volatilidad del S&amp;P 500 usando ventanas de 60 días de retornos logarítmicos y una CNN1D. Contiene limpieza, EDA, baseline y entrenamiento completo en PyTorch/fastai.
 
-# -volatility-prediction-cnn
-Proyecto de predicción binaria de volatilidad del S&amp;P 500 usando ventanas de 60 días de retornos logarítmicos y una CNN1D. Contiene limpieza, EDA, baseline y entrenamiento completo en PyTorch/fastai.
-
 # Predicción de volatilidad del S&P 500 con CNN 1D
 
 Este proyecto implementa un flujo completo para predecir periodos de **alta/baja volatilidad** en el índice S&P 500 usando **ventanas de 60 días de retornos logarítmicos** y una **red neuronal convolucional 1D (CNN1D)**.  

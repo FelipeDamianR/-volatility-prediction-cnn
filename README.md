@@ -34,7 +34,7 @@ El informe técnico final está disponible en la raíz del repositorio:
 
 Este archivo contiene el desarrollo completo del proyecto, análisis, modelos y conclusiones.
 
-## 📁 Carpeta `data/`
+## Carpeta `data/`
 
 ### `data/S&P500_data.xlsx`
 Dataset **ya limpio**, generado desde el notebook de limpieza.  
@@ -48,7 +48,7 @@ Este archivo es utilizado por todos los notebooks posteriores.
 
 ---
 
-## 📁 Carpeta `notebooks/`
+## Carpeta `notebooks/`
 
 Todos los notebooks se encuentran aquí.
 
